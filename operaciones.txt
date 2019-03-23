@@ -1,0 +1,3 @@
+Usuario ha consultado su cuenta
+Usuario ha retirado dinero de su cuenta
+Usuario ha retirado dinero de su cuenta
